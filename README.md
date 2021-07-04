@@ -1,6 +1,6 @@
-# dicoding_submission
+# Simple Notes Application
 
-A new Flutter project.
+Create with flutter, dicoding submission purpose.
 
 ## Getting Started
 
